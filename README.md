@@ -3,22 +3,31 @@ A repository for SEI Group Project MERN
 
 # The Montréal Project - GA Project Three
 
+The Montréal Project is a MERN stack app designed for local people to share their experiences and favorite destinations in and around Montréal. Users can either browse from a wide range of activites and can add their own attractions once signed up, allowing them to also comment and rate other users postings. The aim was to build a fun and interactive site for Montréal dwellers. 
+
 ### Goal and timeframe 
 
-- The third project was a group one, we had 8days to create a fully functioning 
+- This was a four person group project, we had 8days to create a fully functioning application.
 
 ### Technologies Used
-- React
-- Express API
+- React.js
 - Node.js
-- MongoDB / Mongoose
+- Express
+- MongoDB/Mongoose
+- Semantic UI React
 - Axios
-- SASS
-- Semantic UI React 
+- React Mapbox GL
+- Nodemon
+- HTTP-proxy-middleware
+- Bcrypt
+- jsonwebtoken
+- Git, and GitHub
 
 ### Process
 
-We created a web application that allowed residents of Montréal to share and find their favourite activities and local spots. It was a full-stack application, with an Express API using MongoDB and React on the front-end. We utilised wireframes on Figma to guide the MVP and Trello for managing progress. As a team of four, we split the tasks, sometimes working individually and sometimes pair coding.
+. We utilised wireframes on Figma to guide the MVP and Trello for managing progress. As a team of four, we split the tasks, sometimes working individually and sometimes pair coding.
+
+
 
 - Working on a group project creating a wireframe was really important to make sure we were all working to the same goal. 
 - Communication was key in building this app to we spent a lot of time building the wireframe and logic flow of the site. 
