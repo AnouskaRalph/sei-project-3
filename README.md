@@ -30,7 +30,7 @@ The Montréal Project is a MERN stack app designed for local people to share the
 - We utilised wireframes on Figma to guide the MVP and Trello for managing progress. As a team of four, we split the tasks, sometimes working individually and sometimes pair coding.
 - Working on a group project creating a wireframe was really important to make sure we were all working to the same goal. 
 
-![Wireframe Screenshot](./p3.png)
+![Wireframe Screenshot](frontend/assets/p3.png)
 
 - Communication was key in building this app to we spent a lot of time building the wireframe and logic flow of the site. 
 - We started off with all four of us getting the basics up and running; backend and frontend basic funtionality and then we broke off into pairs to work on different aspects of   the site. 
