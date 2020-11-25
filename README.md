@@ -5,7 +5,7 @@ A repository for SEI Group Project MERN
 
 The Montréal Project is a MERN stack app designed for local people to share their experiences and favorite destinations in and around Montréal. Users can either browse from a wide range of activites and can add their own attractions once signed up, allowing them to also comment and rate other users postings. The aim was to build a fun and interactive site for Montréal dwellers. 
 
-![Wireframe Screenshot](./p3homepage.png)
+![Wireframe Screenshot](frontend/assets/p3h.png)
 
 ### Goal and timeframe 
 
@@ -36,7 +36,7 @@ The Montréal Project is a MERN stack app designed for local people to share the
 - We started off with all four of us getting the basics up and running; backend and frontend basic funtionality and then we broke off into pairs to work on different aspects of   the site. 
 - I worked on the frontend building out the landing page, login and register components. 
 
-
+![Wireframe Screenshot](./p3.png)
 
 ### Challenges 
 - Error handling 
