@@ -40,6 +40,10 @@ The Montréal Project is a MERN stack app designed for local people to share the
 
 ### Trello tracker 
 
+
+![Wireframe Screenshot](frontend/assets/p3.png)
+
+
 - Communication was key in building this app to we spent a lot of time building the wireframe and logic flow of the site. 
 - We started off with all four of us getting the basics up and running; backend and frontend basic funtionality and then we broke off into pairs to work on different aspects of   the site. 
 - I worked on the frontend building out the landing page, login and register components. 
