@@ -1,6 +1,8 @@
 # sei-project-3
 A repository for SEI Group Project MERN
 
+Link: https://discover-montreal.herokuapp.com/
+
 # The Montréal Project - GA Project Three
 
 The Montréal Project is a MERN stack app designed for local people to share their experiences and favorite destinations in and around Montréal. Users can either browse from a wide range of activites and can add their own attractions once signed up, allowing them to also comment and rate other users postings. The aim was to build a fun and interactive site for Montréal dwellers. 
