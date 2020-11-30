@@ -1,5 +1,4 @@
 # sei-project-3
-A repository for SEI Group Project MERN
 
 Link: https://discover-montreal.herokuapp.com/
 
